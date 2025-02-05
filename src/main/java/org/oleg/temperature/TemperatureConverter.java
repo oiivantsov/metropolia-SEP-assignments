@@ -1,4 +1,4 @@
-package org.oleg.junit;
+package org.oleg.temperature;
 
 public class TemperatureConverter {
 
